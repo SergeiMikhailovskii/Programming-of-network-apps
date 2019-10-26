@@ -6,3 +6,4 @@
   * [Lab 4](https://github.com/SergeiMikhailovskii/Programming-of-network-apps/tree/master/Lab%204)
        * [DB](https://github.com/SergeiMikhailovskii/Programming-of-network-apps/tree/master/Lab%204/DB)
        * [ParallelTcp](https://github.com/SergeiMikhailovskii/Programming-of-network-apps/tree/master/Lab%204/parallel_tcp)
+  * [Lab 5](https://github.com/SergeiMikhailovskii/Programming-of-network-apps/tree/master/Lab%205)
